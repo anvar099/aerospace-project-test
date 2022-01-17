@@ -1,0 +1,85 @@
+.navbarContainer{
+  width: 20%;
+  height: 100vh;
+  background: radial-gradient(209.86% 47.01% at -23.54% 100%, rgba(255, 246, 35, 0.102) 0%, rgba(255, 243, 35, 0) 100%), #131529;
+  background-blend-mode: color-dodge, normal;
+  box-shadow: 0px 4px 119px rgba(0, 0, 0, 0.16);
+  top: 0;
+  left: 0;
+  margin: 0;
+}
+
+.navbarContent2 {
+  width: auto;
+  border-top: 1.5px solid;
+  margin-top: 110px;
+
+}
+.navbarLogoContent {
+  display: flex;
+  width: 155px;
+  flex-direction: column;
+  margin: 40px auto;
+}
+.navbarLogoOne{
+  font-size: 22px;
+  letter-spacing: 1px;
+  font-family: 'Alfa Slab One', cursive;
+  color: white;
+}
+.navbarLogoTwo {
+  font-size: 11px;
+  letter-spacing: 1px;
+  font-family: 'Alfa Slab One', cursive;
+  color: white;
+  margin-left: auto;
+}  
+.navbarLinksContent{
+  display: flex;
+  flex-direction: column;
+  margin-left: 45px;
+  line-height: 50px;
+  justify-content: center;
+
+}
+.navbarLinksContent2{
+  display: flex;
+  flex-direction: column;
+  margin-left: 45px;
+  line-height: 50px;
+  justify-content: center;
+  width: 205px;
+  margin-bottom: 20px;
+}
+.navbarLink{
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 400;
+  color: #7E7BA2;
+  cursor: pointer;
+}
+.navbarLink2 {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 400;
+  color: #7E7BA2;
+  cursor: pointer;
+}
+.navbarLink:hover{
+  text-decoration: none;
+  color: white;
+  opacity: 0.5;
+  background: linear-gradient(270deg, #FFF323 -473.83%, rgba(255, 243, 35, 0) 83.89%);
+}
+.navbarLink2:hover{
+  text-decoration: none;
+  color: white;
+  opacity: 0.5;
+  background: linear-gradient(270deg, #FFF323 -473.83%, rgba(255, 243, 35, 0) 83.89%);
+}
+.navbarIcon{
+  margin-right: 15px;
+}
+.navbarIcon2{
+  margin-right: 15px;
+}

@@ -7,6 +7,7 @@ import { MapContainer, TileLayer, Polygon } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import { statesData } from "./data";
 
+
 const BasicMap = () => {
   const center = [42.032974, -93.581543];
   return (
